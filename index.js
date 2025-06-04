@@ -19,7 +19,7 @@ const login = require('josh-fca');
 const configJson = {
   "version": "1.0.1",
   "language": "en",
-  "email": "trex28806@gmail.com", // This will be used only if appstate.json is missing or invalid
+  "email": "foreach3@gmail.com", // This will be used only if appstate.json is missing or invalid
   "password": "sssaaa",           // This will be used only if appstate.json is missing or invalid
   "useEnvForCredentials": false,
   "envGuide": "When useEnvForCredentials enabled, it will use the process.env key provided for email and password, which helps hide your credentials, you can find env in render's environment tab, you can also find it in replit secrets.",
@@ -48,7 +48,7 @@ const configJson = {
     // "OTHER_FB_UID" // Replace with other Facebook User IDs if needed
   ],
   "DESIGN": {
-    "Title": "MTX-BOT",
+    "Title": "Moon",
     "Theme": "Blue",
     "Admin": "Hassan",
     "Setup": {
